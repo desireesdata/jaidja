@@ -4,7 +4,7 @@
 
 *jaidja* est un programme exécutable en ligne de commande qui permet de détecter les images en double ou similiaires dans un répertoire.
 
-![](/home/joel/Documents/rust/jaidja/src/img/demo.gif)
+![](/src/img/demo.gif)
 
 ### Détection des doublons
 
