@@ -4,7 +4,7 @@
 
 *jaidja* est un programme exécutable en ligne de commande qui permet de détecter les images en double ou similiaires dans un répertoire.
 
-![](/src/img/demo.gif)
+![](src/img/demo.gif)
 
 ### Détection des doublons
 
@@ -36,7 +36,7 @@ La détection des similarités repose sur l'utilisation de *hashs perceptuels*. 
 jaidja similar jpg > similarities.txt
 ```
 
-## Pourquoi Rust ?
+## Pourquoi Rust 🦀 ⚙️ ?
 
 Ce programme, à améliorer, est conçu comme s'il avait pour destination d'être utilisé pour le traitement industriel de grands lots d'images au sein d'institutions patrimoniales. Rust, rapide et offrant un meilleur contrôle sur la mémoire, semble donc un choix approprié. 
 
@@ -61,3 +61,5 @@ Ce programme, à améliorer, est conçu comme s'il avait pour destination d'êtr
 - Créer des options sur supprimer le fichier le moins ou le plus lourd
 
 - Génération d'un bordereau des détections et des suppressions horodaté et lui-même hashé pour archivage
+
+- Benchmark avec version Python
